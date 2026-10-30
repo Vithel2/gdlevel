@@ -1,0 +1,51 @@
+{
+  "format": "PASS: gzip/base64/XML round trip; internal compressed level data; unique keys",
+  "objects": 6416,
+  "song": "Electrodynamix / DJ-Nate (built-in 14)",
+  "wave_seconds": 58.285714285714285,
+  "anchor_seconds": 60,
+  "estimated_completion_seconds": [
+    60,
+    61
+  ],
+  "forbidden_modes_absent": true,
+  "verified_flag": false,
+  "kinematic_check": {
+    "status": "PASS",
+    "sample_rate_hz": 240,
+    "frames": 13989,
+    "turns": 326,
+    "minimum_hold_ms": 120.83,
+    "median_hold_ms": 158.33,
+    "model_radius_normal": 10,
+    "model_radius_mini": 6,
+    "additional_clearance": 3,
+    "portal_crossings": [
+      {
+        "beat": 40,
+        "y": 202.25
+      },
+      {
+        "beat": 56,
+        "y": 110.24
+      },
+      {
+        "beat": 104,
+        "y": 114.53
+      },
+      {
+        "beat": 120,
+        "y": 187.02
+      },
+      {
+        "beat": 136,
+        "y": 206.38
+      }
+    ],
+    "limitations": "Ideal wave slopes 1 and 2, documented horizontal speeds, static conservative spike bounds. This is not Geometry Dash physics, engine verification or a proof of equal difficulty."
+  },
+  "sha256": {
+    "Neon_Tide.gdlvl": "3599fe7080f1d8ee3653850f8ebab8dd17a8ad0a96c67aca54c623cb870666e6",
+    "Neon_Tide.gmd": "cb0d77dacbe8b144cf521633385f1a574757ecf85d5ff54667358849f49b6b1b"
+  }
+}
